@@ -32,7 +32,7 @@ body {
 /* hero */
 .hero {
     height: 90vh;
-    background: url('../image/bg01.png') no-repeat center center/cover;
+    background: url('../image/playing.png') no-repeat center center/cover;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -41,7 +41,7 @@ body {
 }
 .hero {
     height: 100vh;
-    background-image: url('../Image/bg01.png');
+    background-image: url('../Image/playing.png');
     background-size: cover;
     background-position: center;
     display: flex;

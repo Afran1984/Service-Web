@@ -32,7 +32,7 @@ body {
 /* hero */
 .hero {
     height: 90vh;
-    background: url('../image/jim.png') no-repeat center center/cover;
+    background: url('../image/bg01.png') no-repeat center center/cover;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -41,7 +41,7 @@ body {
 }
 .hero {
     height: 100vh;
-    background-image: url('../Image/jim.png');
+    background-image: url('../Image/bg01.png');
     background-size: cover;
     background-position: center;
     display: flex;
@@ -53,13 +53,11 @@ body {
   
   .hero-text h1 {
     font-size: 3rem;
-    color: black;
   }
   
   .hero-text p {
     font-size: 1.2rem;
     margin-top: 1rem;
-    color: black;
   }
   .button {
     background-color: #04AA6D; /* Green */

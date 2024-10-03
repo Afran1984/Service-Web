@@ -32,7 +32,7 @@ body {
 /* hero */
 .hero {
     height: 90vh;
-    background: url('https://via.placeholder.com/1500x800') no-repeat center center/cover;
+    background: url('../image/jim.png') no-repeat center center/cover;
     display: flex;
     justify-content: center;
     align-items: center;

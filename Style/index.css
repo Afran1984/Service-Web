@@ -41,7 +41,7 @@ body {
 }
 .hero {
     height: 100vh;
-    background-image: url('../Image/travel-banner1.jpg');
+    background-image: url('https://ibb.co.com/HXq1KZn');
     background-size: cover;
     background-position: center;
     display: flex;
